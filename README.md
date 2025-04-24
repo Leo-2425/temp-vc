@@ -49,15 +49,6 @@ The bot includes a simple website that displays developer information. When you 
 - **CLAIM/TRANSFER** - Manage ownership
 - **DELETE** - Remove channel
 
-## License
-
-MIT License with Attribution Requirement and No Commercial Sale
-
-- This software is created by Coders Planet
-- You must credit Coders Planet as the original author in any project using this code
-- You must provide attribution in any media featuring this code
-- Commercial sale of this software or derivative works is prohibited without explicit permission
-
 ## Creator
 
-This project is developed and maintained by Coders Planet.
+This project is developed and maintained by Reo.
